@@ -1,0 +1,18 @@
+# jaemin3
+
+<pre>
+@font-face {
+    font-family: "jaemin3";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/jaemin3/jaemin3.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/jaemin3/jaemin3.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/jaemin3/jaemin3.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/jaemin3/jaemin3.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/jaemin3/jaemin3.ttf") format("truetype");
+    font-display: swap;
+} 
+.jaemin3 {
+    font-family: "jaemin3";
+}
+</pre>
